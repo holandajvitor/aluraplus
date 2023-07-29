@@ -153,3 +153,13 @@ body {
 .lista__link:active {
     color: purple;
 }
+
+/* Estilos para telas menores (até 768px) */
+@media screen and (max-width: 768px) {
+    /* Alterações de estilo para telas menores */
+}
+
+/* Estilos para telas muito pequenas (até 480px) */
+@media screen and (max-width: 480px) {
+    /* Alterações de estilo para telas muito pequenas */
+}
